@@ -1,4 +1,6 @@
 test-repo
 =========
 
-for testing purposes
+for testing only (deletion/addition)
+
+dies ist eine Änderung (Ergänzung)
